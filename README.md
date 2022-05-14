@@ -3,10 +3,10 @@
 
 ### My name is Trường, i was born in 2005
 
-<img src="https://i.ibb.co/X4y5dwP/hanazono-tae-bang-dream.gif" width="300" height="200">
-<img src="https://i.ibb.co/QYLSJZJ/bandori-bang-dream.gif" width="300" height="200">
-<img src="https://i.ibb.co/QmsK0hw/bang-dream-bandori.gif" width="300" height="200">
-<img src="https://i.ibb.co/JjvS2zs/tae-hanazono-otae.gif" width="300" height="200">
+<img src="https://i.ibb.co/X4y5dwP/hanazono-tae-bang-dream.gif" style="">
+<img src="https://i.ibb.co/QYLSJZJ/bandori-bang-dream.gif" style="">
+<img src="https://i.ibb.co/QmsK0hw/bang-dream-bandori.gif" style="">
+<img src="https://i.ibb.co/JjvS2zs/tae-hanazono-otae.gif" style="">
 
 ### My programing language 💻
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
