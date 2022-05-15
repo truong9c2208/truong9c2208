@@ -1,7 +1,12 @@
 
-# Hi 🖐, I'm Shiba
+## Hello 🖐, tôi là Shiba
 
-### My name is Trường, i was born in 2005
+### Một chút về bản thân của tôi: 
+• Tên thật của tôi là: __Trần Văn Trường__
+
+
+
+<h4>This is my waifu: <a href="https://bandori.fandom.com/wiki/Hanazono_Tae">Hanazono Tae</a></h4>
 
 <img src="https://i.ibb.co/X4y5dwP/hanazono-tae-bang-dream.gif" style="">
 <img src="https://i.ibb.co/QYLSJZJ/bandori-bang-dream.gif" style="">
