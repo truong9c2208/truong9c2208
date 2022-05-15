@@ -5,7 +5,7 @@
 <p style="font-size: 18px">&nbsp;&nbsp;&nbsp;&nbsp; • Mình sống ở Sơn La</p>
 <p style="font-size: 18px">&nbsp;&nbsp;&nbsp;&nbsp; • Hiện có đam mê 1 chút với cntt và đang tự học 1 số ngôn ngữ lập trình</p></br>
 
-<p style="font-size: 18px">Đây là waifu của mình: <a href="https://bandori.fandom.com/wiki/Hanazono_Tae#Background">Hanazono Tae</a></p>
+<p style="font-size: 18px">Đây là waifu của mình: <a href="https://bandori.fandom.com/wiki/Hanazono_Tae#Background" target="_blank">Hanazono Tae</a></p>
 
 <p><img src="https://i.ibb.co/X4y5dwP/hanazono-tae-bang-dream.gif" style="width: 400px;">
 <img src="https://i.ibb.co/QYLSJZJ/bandori-bang-dream.gif" style="width: 400px;">
