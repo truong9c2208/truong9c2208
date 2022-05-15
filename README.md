@@ -14,10 +14,22 @@
 
 
 <p style="font-size: 18px">Các ngôn ngữ lập trình tớ đang học 💻</p>
-<p><img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"><img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"></p>
+<p align="left">
+<a href="https://www.mingw-w64.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
+<a href="https://nodejs.org/en/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
+<a href="https://www.java.com/en/" target="_blank"></a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
+</p>
 
 <p style="font-size: 18px">Liên hệ với tớ: <a href="https://www.facebook.com/profile.php?id=100042009152032">Facebook</a> - <a href="mailto:truong9c2208@gmail.com">Mail</a></p>
 
+<p align="center">
+    <a href="https://github.com/SubhamRaoniar28/github-readme-streak-stats">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=truong9c2208&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
+
 ### GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=truong9c2208&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=truong9c2208&theme=synthwave&hide_border=false)<br/>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=truong9c2208&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=truong9c2208&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"></p>
