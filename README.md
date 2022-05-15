@@ -7,18 +7,25 @@
 
 <p style="font-size: 18px">Đây là waifu của mình: <a href="https://bandori.fandom.com/wiki/Hanazono_Tae#Background" target="_blank">Hanazono Tae</a></p>
 
-<p><img src="https://i.ibb.co/X4y5dwP/hanazono-tae-bang-dream.gif" style="width: 400px;">
+<p>
+<img src="https://i.ibb.co/X4y5dwP/hanazono-tae-bang-dream.gif" style="width: 400px;">
 <img src="https://i.ibb.co/QYLSJZJ/bandori-bang-dream.gif" style="width: 400px;">
 <img src="https://i.ibb.co/QmsK0hw/bang-dream-bandori.gif" style="width: 400px;">
-<img src="https://i.ibb.co/JjvS2zs/tae-hanazono-otae.gif" style="width: 400px;"></p>
+<img src="https://i.ibb.co/JjvS2zs/tae-hanazono-otae.gif" style="width: 400px;">
+</p>
 
 
 <p style="font-size: 18px">Các ngôn ngữ lập trình tớ đang học 💻</p>
 <p align="left">
+
 <a href="https://www.mingw-w64.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
+
 <a href="https://nodejs.org/en/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
-<a href="https://www.java.com/en/" target="_blank"></a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+
+<a href="https://www.java.com/en/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
+
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
 </p>
 
