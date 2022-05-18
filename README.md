@@ -15,7 +15,7 @@
 </p>
 
 
-<p style="font-size: 18px">Các ngôn ngữ lập trình tớ đang học 💻</p>
+<p style="font-size: 18px">Các ngôn ngữ lập trình mình đang học 💻</p>
 <p align="left">
     <a href="https://www.mingw-w64.org" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
@@ -34,7 +34,7 @@
     </a>
 </p>
 
-<p style="font-size: 18px">Liên hệ với tớ: <a href="https://www.facebook.com/profile.php?id=100042009152032">Facebook</a> - <a href="mailto:truong9c2208@gmail.com">Mail</a></p>
+<p style="font-size: 18px">Liên hệ với mình: <a href="https://www.facebook.com/profile.php?id=100042009152032">Facebook</a> - <a href="mailto:truong9c2208@gmail.com">Mail</a></p>
 
 <p align="center">
     <a href="https://github.com/SubhamRaoniar28/github-readme-streak-stats">
