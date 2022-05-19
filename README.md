@@ -8,14 +8,14 @@
 <p style="font-size: 18px">Đây là waifu của mình: <a href="https://bandori.fandom.com/wiki/Hanazono_Tae#Background" target="_blank">Hanazono Tae</a></p>
 
 <p>
-    <img src="https://i.ibb.co/X4y5dwP/hanazono-tae-bang-dream.gif" style="width: 100px;">
-    <img src="https://i.ibb.co/QYLSJZJ/bandori-bang-dream.gif" style="width: 100px;">
-    <img src="https://i.ibb.co/QmsK0hw/bang-dream-bandori.gif" style="width: 100px;">
-    <img src="https://i.ibb.co/JjvS2zs/tae-hanazono-otae.gif" style="width: 100px;">
+    <img src="https://i.ibb.co/X4y5dwP/hanazono-tae-bang-dream.gif" style="width: 400px;">
+    <img src="https://i.ibb.co/QYLSJZJ/bandori-bang-dream.gif" style="width: 400px;">
+    <img src="https://i.ibb.co/QmsK0hw/bang-dream-bandori.gif" style="width: 400px;">
+    <img src="https://i.ibb.co/JjvS2zs/tae-hanazono-otae.gif" style="width: 400px;">
 </p>
 
 
-<p style="font-size: 18px">Các ngôn ngữ lập trình mình đang học 💻</p>
+<p style="font-size: 18px">Các ngôn ngữ lập trình tớ đang học 💻</p>
 <p align="left">
     <a href="https://www.mingw-w64.org" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
@@ -34,7 +34,7 @@
     </a>
 </p>
 
-<p style="font-size: 18px">Liên hệ với mình: <a href="https://www.facebook.com/profile.php?id=100042009152032">Facebook</a> - <a href="mailto:truong9c2208@gmail.com">Mail</a></p>
+<p style="font-size: 18px">Liên hệ với tớ: <a href="https://www.facebook.com/profile.php?id=100042009152032">Facebook</a> - <a href="mailto:truong9c2208@gmail.com">Mail</a></p>
 
 <p align="center">
     <a href="https://github.com/SubhamRaoniar28/github-readme-streak-stats">
