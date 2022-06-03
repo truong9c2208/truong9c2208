@@ -1,4 +1,4 @@
-## Chào 🖐, mình là Shiba
+<h1>Chào 🖐, mình là Shiba</h1>
 </br>
 <p style="font-size: 18px">Một chút về bản thân: <p>
 <p style="font-size: 18px">&nbsp;&nbsp;&nbsp;&nbsp; • Tên thật của mình là: Trần Văn Trường</p>
@@ -42,7 +42,7 @@
     </a>
 </p>
 
-### GitHub Stats
+<h1>GitHub Stats</h1>
 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=truong9c2208&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117">
