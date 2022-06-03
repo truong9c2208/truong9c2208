@@ -7,11 +7,11 @@
 
 <p style="font-size: 18px">Đây là waifu của mình: <a href="https://bandori.fandom.com/wiki/Hanazono_Tae#Background" target="_blank">Hanazono Tae</a></p>
 
-<div>
-    <img src="https://i.ibb.co/X4y5dwP/hanazono-tae-bang-dream.gif" style="width: 400px">
-    <img src="https://i.ibb.co/QYLSJZJ/bandori-bang-dream.gif" style="width: 400px">
-    <img src="https://i.ibb.co/QmsK0hw/bang-dream-bandori.gif" style="width: 400px">
-    <img src="https://i.ibb.co/JjvS2zs/tae-hanazono-otae.gif" style="width: 400px">
+<div style="width: 400px">
+    <img src="https://i.ibb.co/X4y5dwP/hanazono-tae-bang-dream.gif">
+    <img src="https://i.ibb.co/QYLSJZJ/bandori-bang-dream.gif">
+    <img src="https://i.ibb.co/QmsK0hw/bang-dream-bandori.gif">
+    <img src="https://i.ibb.co/JjvS2zs/tae-hanazono-otae.gif">
 </div>
  
  
