@@ -2,7 +2,7 @@
 
 <p>Một chút về bản thân: </p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp; • Tên thật của mình là: Trần Văn Trường</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp; • Mình sống ở Sơn La</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp; • Mình sống ở Hà Nội</p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp; • Hiện có đam mê 1 chút với cntt và đang tự học 1 số ngôn ngữ lập trình</p>
 
 <p>Đây là waifu của mình: <a href="https://bandori.fandom.com/wiki/Hanazono_Tae#Background" target="_blank">Hanazono Tae</a></p>
