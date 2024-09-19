@@ -27,7 +27,7 @@
 <br>
 <h3>Contact:</h3>
 <ul>
-    <li><a href="https://www.facebook.com/profile.phpid=100042009152032">Facebook</a>
+    <li><a href="https://www.facebook.com/shibasama.dev/">Facebook</a>
 </li>
     <li><a href="mailto:truong9c2208@gmail.com">Mail</a></li>
 </ul>
