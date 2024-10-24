@@ -37,5 +37,5 @@
 
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=truong9c2208&langs_count=8&layout=compact&theme=tokyonight&count_private=true"><br>
-    <img src="https://github-readme-stats.vercel.app/api?username=truong9c2208&show_icons=true&theme=tokyonight&count_private=true">
+    <img src="https://github-readme-stats.vercel.app/api?username=truong9c2208&show_icons=true&theme=tokyonight&include_all_commits=true">
 </div>
