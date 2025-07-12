@@ -1,41 +1,35 @@
-<h3 align="center">Hi 👋, I'm Shibaa</h3>
-<p>what are you doing here?</p>
-<a href="https://aobuta.fandom.com/wiki/Mai_Sakurajima" target="_blank" alt="my wife =))">
-<img src="./assets/sakurajima.gif"></img>
-</a>
+### 👋 hi there, i'm Shibaa (aka TruongMini)
 
-<hr>
-<h3>Skills:</h3>
-<a href="https://www.mingw-w64.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40">
-</a>
-<a href="https://www.mingw-w64.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-</a>
-<a href="https://nodejs.org/en/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-</a>
-<a href="https://www.typescriptlang.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-</a>
-<a href="https://www.java.com/en/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-</a>
-<a href="https://www.python.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-</a>
-<br>
-<h3>Contact:</h3>
-<ul>
-    <li><a href="https://www.facebook.com/profile.phpid=100042009152032">Facebook</a>
-</li>
-    <li><a href="mailto:truong9c2208@gmail.com">Mail</a></li>
-</ul>
+<p align="center">
+  <img src="./assets/sakurajima.gif" />
+</p>
 
-<hr>
-<br>
+## 📊 my statistics
 
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=truong9c2208&langs_count=8&layout=compact&theme=tokyonight&count_private=true"><br>
-    <img src="https://github-readme-stats.vercel.app/api?username=truong9c2208&show_icons=true&theme=tokyonight&count_private=true">
+<div>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=truong9c2208&amp;theme=dark&amp;show_icons=true&amp;count_private=true" alt="truong9c2208">
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=truong9c2208&amp;theme=dark&amp;layout=compact&amp;count_private=true" alt="truong9c2208">
+  </a>
+  <p align="center">
+    <a href="https://github.com/avgupta456/github-trends">
+      <img src="https://api.githubtrends.io/user/svg/truong9c2208/repos?time_range=one_year&include_private=True&group=private&loc_metric=changed&theme=dark" alt="truong9c2208" />
+    </a> 
+  </p>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=truong9c2208&theme=darkhub" alt="truong9c2208" />
+  </a>
 </div>
+
+<Details>
+<Summary><h2>📞 contact me?</h2></summary>
+
+- email: [shibamini@proton.me](mailto:shibamini@proton.me)
+- discord: [Shibaa05](https://discord.com/users/847101281277444166)
+- telegram: [@Shibaa05](https://t.me/Shibaa05)
+
+</Details>
+
+![](https://komarev.com/ghpvc/?username=truong9c2208)
