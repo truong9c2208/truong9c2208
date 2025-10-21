@@ -7,10 +7,10 @@
 ## 📊 my statistics
 
 <div>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a>
     <img src="https://github-stats.tdung.com/api?username=truong9c2208&show_icons=true&locale=en&theme=dark" alt="truong9c2208">
   </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a>
     <img src="https://github-stats.tdung.com/api/top-langs?username=truong9c2208&locale=en&theme=dark&layout=compact&hide=java" alt="rfs-adreno" alt="truong9c2208">
   </a>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
